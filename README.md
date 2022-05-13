@@ -27,6 +27,8 @@ The objective of this was to build from scratch an application that could take i
 * Directional light
 * Point light
 * Custom Draw polygon
+
+
 ![Animated Example Of Program](http://musical-phoenix.co.uk/wp-content/uploads/2022/05/rastSmall.gif)
 
 More: http://musical-phoenix.co.uk/projects/3d-rasteriser-in-c
