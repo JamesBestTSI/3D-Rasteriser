@@ -1,6 +1,7 @@
 # 3D-Rasteriser Project
-This project takes in a MD2 model file and then draws it to the screen using a home made set of rendering functions.
-The project is able to do the following:
+The objective of this was to build from scratch an application that could take in a 3D model in the form of a .MD2 file, and then display it on screen using my own draw functions and lighting functions.
+
+## The project is able to do the following:
 * Drawing Lines
 * 2D Vertex Class
 * Matrix Class
@@ -26,3 +27,6 @@ The project is able to do the following:
 * Directional light
 * Point light
 * Custom Draw polygon
+![Animated Example Of Program](http://musical-phoenix.co.uk/wp-content/uploads/2022/02/rast.gif)
+
+More: http://musical-phoenix.co.uk/projects/3d-rasteriser-in-c
